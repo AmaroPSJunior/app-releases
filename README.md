@@ -2,7 +2,7 @@
 
 Este repositório é utilizado para **distribuir e atualizar aplicativos Android (APKs) já compilados e assinados** dos projetos desenvolvidos em repositórios privados.
 
-Os dispositivos autorizados, como a central multimídia BYD, celulares e tablets, podem baixar as versões publicadas na seção **Releases**, diretamente pelo GitHub e sem precisar acessar o código-fonte.
+Os dispositivos autorizados, como centrais multimídia Android, celulares e tablets, podem baixar as versões publicadas na seção **Releases**, diretamente pelo GitHub e sem precisar acessar o código-fonte.
 
 ## Como funciona
 
