@@ -3,10 +3,10 @@
   "source_repository": "AmaroPSJunior/chatgpt-termux-controller",
   "application_id": "org.example.chatgpttermuxcontroller",
   "signer_sha256": "d815b69a3e35c3098ffa3a97467ba249b957b0b1c08949ad0f7814cbe22cad1e",
-  "version_name": "0.1.107",
-  "version_code": 107,
-  "tag_name": "controller-v0.1.107",
-  "apk_url": "https://github.com/AmaroPSJunior/app-releases/releases/download/controller-v0.1.107/chatgpt-termux-controller-0.1.107.apk",
-  "apk_sha256": "c6e4e5ba440c8f004ae58667e959a25b74ee689fe94b1f42181fc4f377f117c8",
-  "source_commit": "8dfe175a71558b073a436c8bec97fbaa966c4e12"
+  "version_name": "0.1.109",
+  "version_code": 109,
+  "tag_name": "controller-v0.1.109",
+  "apk_url": "https://github.com/AmaroPSJunior/app-releases/releases/download/controller-v0.1.109/chatgpt-termux-controller-0.1.109.apk",
+  "apk_sha256": "afded4bc0abe66757c45872b8deca82993fd7079db5d462d02649dc0bf62236c",
+  "source_commit": "3a72348ffefe0365fefbbe5424a57574181715bb"
 }
