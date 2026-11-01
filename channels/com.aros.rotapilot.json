@@ -3,10 +3,10 @@
   "source_repository": "AmaroPSJunior/rotapilot-android",
   "application_id": "com.aros.rotapilot",
   "signer_sha256": "d815b69a3e35c3098ffa3a97467ba249b957b0b1c08949ad0f7814cbe22cad1e",
-  "version_name": "0.1.7",
-  "version_code": 7,
-  "tag_name": "rotapilot-v0.1.7",
-  "apk_url": "https://github.com/AmaroPSJunior/app-releases/releases/download/rotapilot-v0.1.7/rotapilot-0.1.7.apk",
-  "apk_sha256": "622e25c0cf3a43c85dee10188279109de444017f28f678908a52d63190f94a21",
-  "source_commit": "905a0138ae7ac0b576a168662984e6da3fbb9c32"
+  "version_name": "0.1.9",
+  "version_code": 9,
+  "tag_name": "rotapilot-v0.1.9",
+  "apk_url": "https://github.com/AmaroPSJunior/app-releases/releases/download/rotapilot-v0.1.9/rotapilot-0.1.9.apk",
+  "apk_sha256": "90daaa66f3380cd204656f220e26b24b92b592898e1db98a5a74113852983e94",
+  "source_commit": "dee8eecbaf9ec7c786d0b027f3c007f0bf96e753"
 }
